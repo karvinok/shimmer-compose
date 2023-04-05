@@ -4,6 +4,8 @@
 
 A reusable and customizable Shimmer Animation composable built with Jetpack Compose.
 
+![](https://github.com/karvinok/shimmer-compose/example.gif)
+
 ## Usage
 
 Add the following dependency to your project's `build.gradle` file:
