@@ -9,10 +9,10 @@ A reusable and customizable Shimmer Animation composable built with Jetpack Comp
 Add the following dependency to your project's `build.gradle` file:
 ```groovy  
 allprojects {  
-	 repositories { 
-		 // ... 
-		 maven { url 'https://jitpack.io' }
-	 }
+    repositories { 
+    	 // ... 
+    	 maven { url 'https://jitpack.io' }	 
+    }
 }  
   
 dependencies {
