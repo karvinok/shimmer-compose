@@ -4,7 +4,7 @@
 
 A reusable and customizable Shimmer Animation composable built with Jetpack Compose.
 
-![](https://github.com/karvinok/shimmer-compose/example.gif)
+![](https://github.com/karvinok/shimmer-compose/blob/master/example.gif)
 
 ## Usage
 
